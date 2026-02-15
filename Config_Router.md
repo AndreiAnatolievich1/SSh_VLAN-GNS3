@@ -1,7 +1,7 @@
 
-`router> en <br>`
-`router# conf t <br>`
-`router(config)# enable secret P@$$w0rd` <br>
+`router> en` <br>
+`router# conf t` <br>
+`router(config)# enable secret cisco` <br>
 `router(config)# service password-encryption`  <br>
 `router(config)# hostname router1`  <br>
 `router1(config)# username admin_R privilege 15 secret cisco` <br>
